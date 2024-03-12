@@ -2,6 +2,7 @@
 
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC63g1mp7Zern61X-UYR91Hw?style=social)](https://youtube.com/@jazminpacheco9158?sub_confirmation=1)
+![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
 
 
 
