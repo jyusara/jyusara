@@ -4,6 +4,14 @@
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC63g1mp7Zern61X-UYR91Hw?style=social)](https://youtube.com/@jazminpacheco9158?sub_confirmation=1)
 
 
+
+## About Me
+
+📚 Aspiring Developer with a focus on Frontend
+👩💻 Software Development Student passionate about continuous learning
+🧪 Interested in the world of testing and software quality
+
+
 <!--
 **jyusara/jyusara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
