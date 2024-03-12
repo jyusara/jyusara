@@ -7,9 +7,9 @@
 
 ## About Me
 
-📚 Aspiring Developer with a focus on Frontend
-👩💻 Software Development Student passionate about continuous learning
-🧪 Interested in the world of testing and software quality
+- 📚 Aspiring Developer with a focus on Frontend
+- 👩💻 Software Development Student passionate about continuous learning
+- 🧪 Interested in the world of testing and software quality
 
 
 <!--
