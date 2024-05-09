@@ -2,9 +2,23 @@
 
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC63g1mp7Zern61X-UYR91Hw?style=social)](https://youtube.com/@jazminpacheco9158?sub_confirmation=1)
-[[TikTok]](https://www.tiktok.com/@jyusara21)
+[[TikTok](https://img.shields.io/badge/TikTok-Visit-blue)](https://www.tiktok.com/@jyusara21)
 
 
+<style>
+  a[title="TikTok - Visit"] {
+    background-color: #000;
+    color: #fff;
+    padding: 8px 16px;
+    border-radius: 4px;
+    text-decoration: none;
+    font-weight: bold;
+  }
+
+  a[title="TikTok - Visit"]:hover {
+    background-color: #1C1C1C;
+  }
+</style>
 
 
 
