@@ -2,6 +2,7 @@
 
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC63g1mp7Zern61X-UYR91Hw?style=social)](https://youtube.com/@jazminpacheco9158?sub_confirmation=1)
+[![TikTok Followers](https://img.shields.io/tiktok/followers/jyusara21?style=social)](https://www.tiktok.com/@jyusara21)
 
 
 
