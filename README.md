@@ -38,5 +38,5 @@ Here are some ideas to get you started:
 </a>
 </p>
 
-#### TikTok Style
+#### TikTok
 <a href="https://www.tiktok.com/@jyusara21" style="background-color: #000; color: #fff; padding: 8px 16px; border-radius: 4px; text-decoration: none; font-weight: bold;" title="TikTok - Visit" target="_blank">Visit TikTok</a>
