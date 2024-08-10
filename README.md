@@ -9,7 +9,7 @@
 ## About Me
 
 - 📚 Aspiring Developer with a focus on Frontend
-- 👩💻 Software Development Student passionate about continuous learning
+- 👩💻 Passionate about software development and committed to continuous learning.
 
 
 
